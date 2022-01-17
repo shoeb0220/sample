@@ -1,3 +1,4 @@
 welcome to class
 This a react JS
 This is a capstone project
+I will not learn new today
